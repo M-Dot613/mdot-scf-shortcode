@@ -4,7 +4,7 @@
  * Plugin URI: https://mdotweb.com
  * Description: A plugin to create a shortcode that runs get_field().
  * Version: 1.1
- * Author: Your Name
+ * Author: M-Dot Web
  * Author URI: https://mdotweb.com
  */
 
